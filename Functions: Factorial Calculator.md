@@ -22,7 +22,8 @@ Multiply fact by i in each iteration.
 d. After the loop, print the factorial value.
 
 End the program.
-## program
+
+## Program
 ```
 #include <stdio.h>
 void fact();
@@ -47,12 +48,15 @@ void fact() {
 }
 ```
 
-## OInput:
+
+## Output
 ```
+Input:
 Enter a positive integer: 5
 Output:
-Factorial of 5 is 120utput
+Factorial of 5 is 120
 ```
+
 
 ## Result
 The above programme is implemented and executed.
